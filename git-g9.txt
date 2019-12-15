@@ -1,24 +1,23 @@
 
+difference between local and remote repository
+
 git add  - tracked - added to staging area
 git add .
 git add *
 git add -A
 git add <file name>
+
 git reset - untrack all files
 git reset <file name>
+
 git commit - new version
 git commit -m "message"
+
 daca dau git commit si uit sa pun -m 
 to exit vim: escape :wq
-git push
-transfers code from local repository to remote repository
+git push = transfers code from local repository to remote repository
 git clone - copies online repository to local machine
 git merge <branch name>
-
-tortoise git
-sourcertree - bitbucket
-gitkraken
-sublime merge
 
 
 ---
@@ -29,4 +28,10 @@ git commit -m "message" = to create commit
 git push = to publish modifications
 git pull = to get modifications from remote
 git clone = to clone remote repository
+git reset = use wisely - unstages modifications
 
+- tools
+tortoise git - bad
+sourcertree - de la bitbucket
+gitkraken
+sublime merge
