@@ -1,0 +1,36 @@
+1. new file - untracked
+2. git add  - tracked - added to staging area
+git add .
+git add *
+git add -A
+git add <file name>
+
+git reser - untrack all files
+git reset <file name>
+3. git commit - new version
+git commit -m "message"
+4. git push
+transfers code from local repository to remote repository
+
+5. git clone - copies online repository to local machine
+
+6. git merge <branch name>
+
+
+to exit vim: escape :wq
+
+tortoise git
+sourcertree - bitbucket
+gitkraken
+sublime merge
+
+
+---
+commands:
+git init = creates repository from folder
+git add . = track files
+git commit -m "message" = to create commit
+git push = to publish modifications
+git pull = to get modifications from remote
+git clone = to clone remote repository
+
