@@ -1,23 +1,19 @@
-1. new file - untracked
-2. git add  - tracked - added to staging area
+
+git add  - tracked - added to staging area
 git add .
 git add *
 git add -A
 git add <file name>
-
-git reser - untrack all files
+git reset - untrack all files
 git reset <file name>
-3. git commit - new version
+git commit - new version
 git commit -m "message"
-4. git push
-transfers code from local repository to remote repository
-
-5. git clone - copies online repository to local machine
-
-6. git merge <branch name>
-
-
+daca dau git commit si uit sa pun -m 
 to exit vim: escape :wq
+git push
+transfers code from local repository to remote repository
+git clone - copies online repository to local machine
+git merge <branch name>
 
 tortoise git
 sourcertree - bitbucket
